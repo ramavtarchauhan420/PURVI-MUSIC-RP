@@ -9,7 +9,7 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_USERNAME = getenv("OWNER_USERNAME","RAM_HACKER_RP"
+OWNER_USERNAME = getenv("OWNER_USERNAME","RAM_HACKER_RP")
 BOT_USERNAME = getenv("BOT_USERNAME" , "Jani_Music_Robot")
 BOT_NAME = getenv("BOT_NAME" , "Jani Music")
 ASSUSERNAME = getenv("ASSUSERNAME" , "ViP Jani")
